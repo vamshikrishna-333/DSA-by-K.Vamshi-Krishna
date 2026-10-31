@@ -104,18 +104,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
