@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0617-merge-two-binary-trees) |
 ## DP on Trees
 |  |
 | ------- |
@@ -132,4 +135,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
