@@ -136,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0617-merge-two-binary-trees) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
