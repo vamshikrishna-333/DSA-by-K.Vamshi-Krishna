@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0977-squares-of-a-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0009-palindrome-number) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/3870-count-commas-in-range) |
 ## Backtracking
 |  |
