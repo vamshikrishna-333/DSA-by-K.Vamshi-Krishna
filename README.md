@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0977-squares-of-a-sorted-array) |
+| [1329-sort-the-matrix-diagonally](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/1329-sort-the-matrix-diagonally) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0977-squares-of-a-sorted-array) |
+| [1329-sort-the-matrix-diagonally](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/1329-sort-the-matrix-diagonally) |
 ## Greedy
 |  |
 | ------- |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0206-reverse-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [1329-sort-the-matrix-diagonally](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/1329-sort-the-matrix-diagonally) |
 <!---LeetCode Topics End-->
