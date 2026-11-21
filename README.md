@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0560-subarray-sum-equals-k](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0977-squares-of-a-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
