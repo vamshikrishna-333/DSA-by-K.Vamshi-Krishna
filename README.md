@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0009-palindrome-number) |
+| [3360-stone-removal-game](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/3870-count-commas-in-range) |
 ## Backtracking
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1329-sort-the-matrix-diagonally](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/1329-sort-the-matrix-diagonally) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
