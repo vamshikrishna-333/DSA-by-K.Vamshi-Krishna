@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0977-squares-of-a-sorted-array) |
 | [1329-sort-the-matrix-diagonally](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/1329-sort-the-matrix-diagonally) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
@@ -94,11 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/vamshikrishna1249/DSA-by-K.Vamshi-Krishna/tree/master/3364-minimum-positive-sum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
